@@ -1,0 +1,296 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: cover;
+    height: 50px;
+    /* border: solid; */
+    background-color: hsla(0, 0%, 0%, 0.781);
+display:flex ;
+
+}
+.imogie{
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 60px;
+    
+}
+ul{
+    display: flex;
+/* align-items: center; */
+margin-top: 25px;
+margin-left: 50px;
+}
+li{
+    list-style: none;
+margin-left: 40px;
+
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+color: white;
+background-color: black;
+border-radius: 5px;
+}
+.tyre1{
+    display: flex;
+    /* margin-top: 20px; */
+    margin-left: 540px;
+    font-size: 17px;
+color: rgba(255, 255, 255, 0.709);
+}
+
+.myname{
+    display: inline;
+    color:  rgba(255, 255, 255, 0.709);
+}
+.inn{
+    margin-left: 33px;
+margin-top: 20px;
+}
+.tyre{
+    margin-top: 23px;
+}
+.bar{
+    margin-top: 25px;
+    margin-left: 33px;
+}
+.home{
+ color:    rgba(255, 255, 255, 0.918);
+}
+.container-2{
+    width: cover;
+    height: 350px;
+    border: 1px solid hsla(0, 0%, 0%, 0.781);
+    background-color: hsla(0, 0%, 0%, 0.781);
+    position: relative;
+    /* bottom: 40px; */
+}
+.para1{
+    margin-top: 50px;
+    margin-left: 55px;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: gray;
+}
+.heading1{
+    margin-left: 55px;
+    margin-top: 10px;
+    color: white;
+}
+.line{
+    
+    width: 140px;
+    height: 3px;
+    border: 2px solid gold;
+    background-color: gold;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.lorem{
+    
+    width: 160px;
+    margin-left: 55px;
+    margin-top: 10px;
+    color: gray;
+}
+.james-photo{
+    position: absolute;
+   left: 370px;
+   bottom: 5px;
+}
+.jamespick{
+    width: 460px;
+    height: 350px;
+}
+.service{
+    margin-left: 830px;
+    position: absolute;
+    bottom: 160px;
+    width: 430px;
+    color: grey;
+}
+.gold{
+    color: gold;
+}
+.arrow{
+    position: relative;
+    left: 78px;
+    bottom: 20px;
+}
+.meta-google{
+    height: 80px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:   hsla(0, 3%, 7%, 0.692);
+    margin-left: 55px;
+    position: absolute;
+    bottom: 200px;
+}
+.meta{
+    height: 50px;
+    min-width: 180px;
+    background-color: #0e0c0c;
+}
+.google{
+    height: 50px;
+    min-width: 180px;
+    background-color:#0e0c0c;   
+    margin-left: 40px;
+}
+.linked{
+    height: 50px;
+    min-width: 180px;
+    background-color: #0e0c0c;
+    margin-left: 40px;
+}
+
+.slack{
+    height: 50px;
+    min-width: 180px;
+    background-color: #0e0c0c;
+    margin-left: 40px;
+}
+.container-3{
+    width: cover;
+    height: 700px;
+    border: 1px solid rgba(0, 0, 0, 0.891);;
+    background-color:  rgba(0, 0, 0, 0.891);
+    
+}
+.what{
+    margin-top: 70px;
+    color: rgba(255, 255, 255, 0.881);
+    margin-left: 55px;
+}
+.footer-para{
+    width: 200px;
+    margin-left: 55px;
+    margin-top: 5px;
+    color: gray;
+}
+.decimal{
+   display: inline; 
+   color: gold;
+   margin-left: 55px;
+   margin-top: 5px;
+}
+
+.project{
+    display: inline;
+    margin-left: 55px;
+    color: gray;
+}
+.deci{
+    display: inline;
+    color: gold;
+    margin-left: 55px;
+}
+
+.hundred{
+    margin-left: 100px;
+}
+.thirty{
+    margin-left: 105px;
+}
+
+.comm{
+    margin-left: 27px;
+}
+.footer{
+   margin-left: 700px; 
+   position: relative;
+   bottom: 220px;
+}
+.software{
+    height: 70px;
+    width: 170px;
+    margin-top: 10px;
+}
+  
+
+     
+  .bold{
+      
+      margin-left: 40px;
+      color: rgba(255, 255, 255, 0.419);
+    position: relative;
+    bottom: 15px;
+    
+  }
+      
+  
+  hr{
+      
+      width: 530px;
+      /* margin-left: 36px; */
+  }
+  
+  .arro{
+    height: 16px;
+    width: 50px;
+    margin-left: 170px;
+    position: relative;
+    bottom: 15px;
+  }
+  .first-arrow{
+    margin-left: 200px;  }
+    .boxes{
+        display: flex;
+        position: relative;
+        bottom: 170px;
+        margin-left: 55px;
+    }
+  
+.box-1{
+    height: 270px;
+    width: 300px;
+    
+    background-color: hsla(0, 3%, 37%, 0.285);
+}
+.box-2{
+    height: 270px;
+    width: 300px;
+    
+    margin-left: 55px;
+    background-color: hsla(0, 3%, 37%, 0.285);
+}
+.box-3{
+    height: 270px;
+    width: 300px;
+    
+    margin-left: 55px;
+    background-color: hsla(0, 3%, 37%, 0.285);
+}
+ .box-image{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 20px;
+ }
+ .box-heading{
+    margin-top: 6px;
+    margin-left: 30px;
+    color: aliceblue;
+ } 
+  .box-para{
+    margin-top: 23px;
+    margin-left: 13px;
+    color: rgba(240, 255, 255, 0.518);
+  }
+  
+  
+
+
+
+
+
+
+
